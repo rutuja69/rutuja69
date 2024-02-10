@@ -1,5 +1,6 @@
 ### Hi RK 👋
-Author-Rutuja Kute
+Author-Rutuja (rutuja69)
+My name is RK, I am an Analyst
 
 <!--
 **rutuja69/rutuja69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
